@@ -33,6 +33,18 @@ cd MMM-HTTP-Client
 npm install
 ```
 
+## Using the module
+To use this module, add the following configuration block to the modules array in the `config/config.js` file:
+```js
+var config = {
+    modules: [
+        {
+            module: "MMM-HTTP-Client"
+        }
+    ]
+}
+```
+
 ## Module notifications
 
 | Notification              | Payload | Description                                                                                                                                                                                                                                                                                                          |

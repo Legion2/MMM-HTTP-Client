@@ -1,0 +1,22 @@
+{
+  "name": "mmm-http-client",
+  "version": "0.1.0",
+  "description": "Do HTTP requests triggered by notifications from the MagicMirror Server",
+  "main": "node_helper.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Legion2/MMM-HTTP-Client.git"
+  },
+  "keywords": [
+    "MagicMirror"
+  ],
+  "author": "Leon Kiefer",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Legion2/MMM-HTTP-Client/issues"
+  },
+  "homepage": "https://github.com/Legion2/MMM-HTTP-Client#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}

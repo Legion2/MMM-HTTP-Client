@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Legion2/MMM-HTTP-Client#readme",
   "dependencies": {
-    "node-fetch": "^3.1.1"
+    "node-fetch": "^2.6.7"
   }
 }
